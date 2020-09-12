@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4631433e-156e-440b-80a3-b0da8310f5b4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hIOYY6V6Rt7i5u2NeYViBUs3jc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="C:/ANDROID/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../j0067020_room_database/RoomDatabase" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4631433e-156e-440b-80a3-b0da8310f5b4" name="Default Changelist" comment="" />
+      <created>1599695187305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599695187305</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2381" y="93" key="FileChooserDialogImpl" timestamp="1599695583077">
+      <screen x="1920" y="0" width="1366" height="738" />
+    </state>
+    <state x="2381" y="93" key="FileChooserDialogImpl/0.0.1280.657/1920.0.1366.738@1920.0.1366.738" timestamp="1599695583077" />
+  </component>
+</project>

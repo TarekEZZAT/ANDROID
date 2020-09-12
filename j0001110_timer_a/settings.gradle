@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "0001110_timer_j_a"
